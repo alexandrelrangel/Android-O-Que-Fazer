@@ -1,0 +1,5 @@
+com/example/oquefazer/BuildConfig.java
+ com.example.oquefazer.BuildConfig
+com/example/oquefazer/MainActivity.java
+ com.example.oquefazer.MainActivity
+ com.example.oquefazer.MainActivity$1
